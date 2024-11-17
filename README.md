@@ -1,8 +1,8 @@
-# Awesome Music Generation with AI
+# 人工智能音乐创作资源大全
 
-Welcome to the Awesome Music Generation with AI list, a curated collection of resources, projects, and frameworks at the intersection of artificial intelligence and music creation. Over the years, the field of generative music has witnessed a significant evolution, propelled by advancements in machine learning and deep learning technologies. From algorithmic composition to real-time music generation, AI has opened new horizons, enabling a blend of creativity and automation that was once unimaginable.
+欢迎来到《人工智能音乐创作资源大全》，这是一个精心整理的资源集合，汇集了人工智能与音乐创作领域的相关项目、研究和框架。多年来，随着机器学习和深度学习技术的飞速发展，生成音乐领域经历了显著的变革。从算法作曲到实时音乐生成，人工智能正在打开新的大门，将创意与自动化完美融合，实现了过去难以想象的可能性。
 
-This list aims to be a comprehensive hub for enthusiasts, researchers, and professionals, bringing together the pioneering projects, influential research papers, and state-of-the-art frameworks that are shaping the future of music generation through AI. Whether you are a musician exploring the digital frontier, a researcher pushing the boundaries of what's possible, or a developer aiming to integrate AI-driven music capabilities into applications, this collection will provide a rich source of inspiration and knowledge.
+本资源旨在为音乐爱好者、研究人员和行业从业者提供一个全面的平台，汇聚引领潮流的项目、具有影响力的研究论文，以及最先进的技术框架，共同推动人工智能音乐创作的未来。不论您是探索数字音乐前沿的音乐人、突破技术极限的研究者，还是希望在应用中集成AI音乐功能的开发者，这份资源都将为您带来丰富的灵感和知识支持。
 
 ## Table of Contents
 
