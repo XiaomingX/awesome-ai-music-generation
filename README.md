@@ -4,153 +4,188 @@
 
 本资源旨在为音乐爱好者、研究人员和行业从业者提供一个全面的平台，汇聚引领潮流的项目、具有影响力的研究论文，以及最先进的技术框架，共同推动人工智能音乐创作的未来。不论您是探索数字音乐前沿的音乐人、突破技术极限的研究者，还是希望在应用中集成AI音乐功能的开发者，这份资源都将为您带来丰富的灵感和知识支持。
 
-## Table of Contents
-
-- [GitHub projects](#github-projects)
-- [Articles & Blogs](#articles-&-blogs)
-- [Online Courses](#online-courses)
-- [Books](#books)
-- [Research Papers](#research-papers)
-- [Videos](#videos)
-- [Tools & Software](#tools-&-software)
-- [Conferences & Events](#conferences-&-events)
-- [Slides & Presentations](#slides-&-presentations)
-
-
 ## GitHub projects
 
-- [Magenta](https://github.com/magenta/magenta): Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
-- [Audiocraft](https://github.com/facebookresearch/audiocraft): A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
-- [Muzic](https://github.com/microsoft/muzic): Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
-- [musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch): PyTorch implementation of MusicLM, Google's state-of-the-art model for music generation using attention networks 🎼 (2763 stars)
-- [riffusion](https://github.com/riffusion/riffusion): Stable diffusion for real-time music generation 🎵 (2727 stars)
-- [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music): A notebook demonstrating prompt-based music generation using Mubert API 🎵 (2674 stars)
-- [riffusion-app](https://github.com/riffusion/riffusion-app): Stable diffusion for real-time music generation in a web app 🎵 (2474 stars)
-- [Magenta.js](https://github.com/magenta/magenta-js): Music and Art Generation with Machine Learning in the browser 🎵🖌️ (1899 stars)
-- [AudioLDM2](https://github.com/haoheliu/AudioLDM2): Text-to-Audio/Music Generation 🎵 (1733 stars)
-- [musegan](https://github.com/salu133445/musegan): An AI for Music Generation 🎵 (1602 stars)
-- [**Radium**](https://github.com/kmatheussen/radium): A graphical music editor and next generation tracker. 🎵⚡️ (805 stars)
-- [**GRUV**](https://github.com/MattVitelli/GRUV): A Python project for algorithmic music generation. 🐍🎶 (798 stars)
-- [**DeepJ**](https://github.com/calclavia/DeepJ): A deep learning model for style-specific music generation. 🎵🔥 (717 stars)
-- [**Music Generation with Deep Learning**](https://github.com/umbrellabeach/music-generation-with-DL): Resources on music generation using deep learning. 🎶💻 (700 stars)
-- [**Musika**](https://github.com/marcoppasini/musika): Fast infinite waveform music generation. 🎵💨 (646 stars)
-- [**Music Generation Research**](https://github.com/AI-Guru/music-generation-research): A collection of music generation research resources. 🎶🔬 (516 stars)
-- [**MusPy**](https://github.com/salu133445/muspy): A toolkit for symbolic music generation. 🎵🔧 (387 stars)
-- [**MusicGenerator**](https://github.com/Conchylicultor/MusicGenerator): Experiment with diverse deep learning models for music generation with TensorFlow. 🎶🧪 (309 stars)
-- [**MuseTree**](https://github.com/stevenwaterman/musetree): AI music generation for the real world. 🎵🌍 (215 stars)
-- [**VampNET**](https://github.com/hugofloresgarcia/vampnet): Music generation with masked transformers! 🎶🦇 (204 stars)
+- **[Magenta](https://github.com/magenta/magenta)**：用人工智能生成音乐和艺术 🎵🖌️（18712 星）
+- **[Audiocraft](https://github.com/facebookresearch/audiocraft)**：一个深度学习音频处理与生成库，包括可控音乐生成模型 MusicGen 🎧（17044 星）
+- **[Muzic](https://github.com/microsoft/muzic)**：微软开发的音乐理解与生成 AI 🎶（3765 星）
+- **[musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch)**：基于 PyTorch 实现的 MusicLM，谷歌最新的注意力网络音乐生成模型 🎼（2763 星）
+- **[riffusion](https://github.com/riffusion/riffusion)**：实时音乐生成的稳定扩散模型 🎵（2727 星）
+- **[Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)**：用 Mubert API 通过提示生成音乐的示例 🎵（2674 星）
+- **[riffusion-app](https://github.com/riffusion/riffusion-app)**：实时音乐生成的网页版 🎵（2474 星）
+- **[Magenta.js](https://github.com/magenta/magenta-js)**：在浏览器中用机器学习生成音乐和艺术 🎵🖌️（1899 星）
+- **[AudioLDM2](https://github.com/haoheliu/AudioLDM2)**：文本转音频/音乐生成工具 🎵（1733 星）
+- **[musegan](https://github.com/salu133445/musegan)**：AI 音乐生成工具 🎵（1602 星）
+- **[Radium](https://github.com/kmatheussen/radium)**：图形化音乐编辑器与下一代音轨工具 🎵⚡️（805 星）
+- **[GRUV](https://github.com/MattVitelli/GRUV)**：用 Python 实现的算法音乐生成项目 🐍🎶（798 星）
+- **[DeepJ](https://github.com/calclavia/DeepJ)**：专注风格音乐生成的深度学习模型 🎵🔥（717 星）
+- **[Music Generation with Deep Learning](https://github.com/umbrellabeach/music-generation-with-DL)**：关于用深度学习生成音乐的资源 🎶💻（700 星）
+- **[Musika](https://github.com/marcoppasini/musika)**：快速生成无限音乐波形 🎵💨（646 星）
+- **[Music Generation Research](https://github.com/AI-Guru/music-generation-research)**：音乐生成研究资源集合 🎶🔬（516 星）
+- **[MusPy](https://github.com/salu133445/muspy)**：用于符号音乐生成的工具包 🎵🔧（387 星）
+- **[MusicGenerator](https://github.com/Conchylicultor/MusicGenerator)**：用 TensorFlow 试验多种深度学习音乐生成模型 🎶🧪（309 星）
+- **[MuseTree](https://github.com/stevenwaterman/musetree)**：适用于现实生活的 AI 音乐生成工具 🎵🌍（215 星）
+- **[VampNET](https://github.com/hugofloresgarcia/vampnet)**：使用遮罩变换器的音乐生成工具 🎶🦇（204 星）
 
 ## Articles & Blogs
 
-- [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284): A single Language Model (LM) called MusicGen that operates over compressed discrete music representation, allowing better control over the generated output. Music samples, code, and models are available at the provided link.
-- [AI-Based Affective Music Generation Systems: A Review of Methods](https://arxiv.org/abs/2301.06890): A comprehensive review of AI-AMG systems, discussing their building blocks, categorizing existing systems based on core algorithms, and exploring AI-based approaches for composing affective music.
-- [Music FaderNets: Controllable Music Generation Based On High](https://arxiv.org/abs/2007.15474): A framework (Music FaderNets) for learning high-level feature representations by manipulating low-level attributes through feature disentanglement and latent regularization techniques.
-- [Music Generation by Deep Learning-Challenges and Directions](https://arxiv.org/abs/1712.04371): An overview of deep learning approaches for music generation, discussing their limitations in terms of creativity and control.
-- [MusPy: A Toolkit for Symbolic Music Generation](https://arxiv.org/abs/2008.01951): Introduction of MusPy, an open-source Python library for symbolic music generation, providing tools for dataset management, data preprocessing, and model evaluation. Statistical analysis of supported datasets is also included.
-- [Music generation with variational recurrent autoencoder supported](https://arxiv.org/abs/1705.05458): Introduction of a new network architecture, variational autoencoder supported by history, for generating longer melodic patterns. Filtering heuristics are used to enhance the generated music.
-- [Symbolic Music Generation with Diffusion Models](https://arxiv.org/abs/2103.16091): Application of diffusion models to modeling symbolic music, demonstrating strong generation and conditional infilling results.
-- [Magenta](https://research.google/teams/brain/magenta/): A research project exploring the role of machine learning in the creation of art and music.
-- [How to generate music with Python: The Basics](https://medium.com/@stevehiehn/how-to-generate-music-with-python-the-basics-62e8ea9b99a5): An article discussing the basics of generating music with Python, highlighting its use in procedural MIDI generation.
-- [MidiNet: A Convolutional Generative Adversarial Network for](https://arxiv.org/abs/1703.10847): Investigation of using convolutional neural networks (CNNs) for generating melody in the symbolic domain, introducing conditional mechanisms and expanding to multiple MIDI channels.
-- [A Survey on Artificial Intelligence for Music Generation: Agents ...](https://arxiv.org/abs/2210.13944) :octocat:
-- This survey paper explores the field of music generation with artificial intelligence (AI), discussing the composition techniques and advances in AI systems imitating the music generation process. It also highlights the role of datasets, models, interfaces, and users in the music generation process, along with potential applications and future research directions.
-- [Generating Music With Artificial Intelligence](https://towardsdatascience.com/generating-music-with-artificial-intelligence-9ce3c9eef806) :musical_note:
-- This article provides insights into how recurrent neural networks (RNNs) can be used for music generation with machine learning. It serves as a refresher for RNN-based text generation techniques.
-- [From Artificial Neural Networks to Deep Learning for Music ...](https://arxiv.org/abs/2004.03586)
-- This paper explores the application of deep learning techniques in music generation. It offers a tutorial on how deep learning can be used to automatically learn musical styles and generate music samples.
-- [Noise2Music: Text-conditioned Music Generation with Diffusion ...](https://arxiv.org/abs/2302.03917) :sound:
-- This research introduces Noise2Music, a system that utilizes diffusion models to generate high-quality music clips from text prompts. It demonstrates how the generated audio can capture the genre, tempo, instruments, mood, and era specified in the text.
-- [A Classifying Variational Autoencoder with Application to ...](https://arxiv.org/abs/1711.07050) :musical_keyboard:
-- This paper presents a model based on the variational autoencoder (VAE) framework for algorithmic music generation. The model incorporates a classifier to infer the discrete class of the modeled data, allowing for the generation of musical sequences in different keys.
-- [Generating Ambient Music from WaveNet](https://medium.com/@rachelchen_49210/generating-ambient-noise-from-wavenet-95aa7f0a8f77)
-- This post discusses the motivation and approach for generating ambient music using Google DeepMind's WaveNet, an audio-generative model.
-- [Generating Music using an LSTM Neural Network](https://david-exiga.medium.com/music-generation-using-lstm-neural-networks-44f6780a4c5)
-- This blog post presents the use of a long short-term memory (LSTM) neural network for music generation. It covers improvements made to an existing LSTM model.
-- [Discrete Diffusion Probabilistic Models for Symbolic Music Generation](https://arxiv.org/abs/2305.09489) :notes:
-- This work introduces the generation of polyphonic symbolic music using Discrete Diffusion Probabilistic Models (DDPMs). The models exhibit high-quality sample generation and allow for flexible infilling at the note level. The paper also discusses the evaluation of music sample quality and the possible applications of these models.
+1. [**简单可控的音乐生成**](https://arxiv.org/abs/2306.05284)：介绍了一种名为 MusicGen 的单语言模型（LM），通过压缩的离散音乐表示进行音乐生成，可更好地控制输出效果。提供了音乐样本、代码和模型，详情见链接。
 
-## Online Courses
+2. [**基于AI的情感音乐生成系统：方法综述**](https://arxiv.org/abs/2301.06890)：全面回顾了AI情感音乐生成系统（AI-AMG）的核心算法和构建模块，分析现有系统的分类方法，并探索AI在情感音乐创作中的应用。
 
-- [Generative AI Courses & Certifications](https://www.coursera.org/courses?query=generative%20ai): Take the next step in your professional journey and enroll in a Generative AI course today! Browse Generative AI Courses offered from top universities and industry leaders. 🎓
-- [Complete A.I. Art Generation Course - Beginner 2 MASTER](https://www.udemy.com/course/complete-ai-art-generation/): Learn how to generate everything from Language, Art, Music & much more using cutting-edge A.I. algorithms. 🎨🎵
-- [Andrew Ng: Announcing My New Deep Learning Specialization](https://blog.coursera.org/andrew-ng-announcing-new-deep-learning-specialization-coursera/): Dive into deep learning with Andrew Ng, a renowned AI expert, and learn the foundations of this exciting field. 🧠
-- [Best Deep Learning Courses & Certifications](https://www.coursera.org/courses?query=deep%20learning) (Coursera): Enhance your deep learning skills and knowledge by enrolling in a wide range of courses offered by top universities and industry leaders.
+3. [**Music FaderNets: 基于高层特征的可控音乐生成**](https://arxiv.org/abs/2007.15474)：提出了一种框架（Music FaderNets），通过分离低层属性来学习高层特征，运用特征解耦和潜在正则化技术实现音乐生成。
 
-## Books
+4. [**深度学习生成音乐的挑战与方向**](https://arxiv.org/abs/1712.04371)：概述深度学习在音乐生成中的应用，讨论在创意性和控制力方面的局限性。
 
-- [Deep Learning Techniques for Music Generation](https://link.springer.com/book/10.1007/978-3-319-70163-9) 📚: This book presents a survey and analysis of how deep learning can be utilized to generate musical content, providing insights for students, practitioners, and researchers.
-- [Algorithmic Composition: Paradigms of Automated Music Generation](https://link.springer.com/book/10.1007/978-3-211-75540-2) 📚: Offering a detailed overview of algorithmic composition, this book focuses on prominent procedures and principles in a practical manner.
-- [Hands-On Music Generation with Magenta](https://www.amazon.com/Hands-Music-Generation-Magenta-composition/dp/1838824413) 📚: Explore the role of deep learning in music generation and assisted composition with Magenta. This hands-on guide integrates ML models into existing music production tools.
-- [Machine Learning and Music Generation](https://www.amazon.com/Machine-Learning-Music-Generation-I%C3%B1esta/dp/0367892855) 📚: Delve into the intersection of machine learning and music generation with this comprehensive book, covering the use of ML techniques in creating music.
+5. [**MusPy: 一个符号音乐生成工具包**](https://arxiv.org/abs/2008.01951)：介绍了MusPy，一个开源的Python库，用于符号音乐生成，提供数据集管理、数据预处理和模型评估功能，并包含对支持数据集的统计分析。
 
-## Research Papers
+6. [**基于变分递归自动编码器的音乐生成**](https://arxiv.org/abs/1705.05458)：提出一种新型网络架构，通过历史支持的变分自动编码器生成更长的旋律，并通过过滤启发式方法提升生成质量。
 
-- [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284) : This paper introduces MusicGen, a single Language Model (LM) that generates high-quality music samples conditioned on textual description or melodic features, allowing better control over the generated output. It showcases superior performance compared to baselines on a standard text-to-music benchmark.
-- [Efficient Neural Music Generation](https://arxiv.org/abs/2305.15719) : MeLoDy (M for music; L for LM; D for diffusion) is proposed as an LM-guided diffusion model that generates music audios of state-of-the-art quality while reducing forward passes in the sampling process, making it computationally efficient.
-- [Noise2Music: Text-conditioned Music Generation with Diffusion](https://arxiv.org/abs/2302.03917) : This paper presents Noise2Music, a series of diffusion models trained to generate high-quality 30-second music clips from text prompts. It explores different options for intermediate representations and demonstrates the ability to faithfully reflect key elements of the text prompt.
-- [VampNet: Music Generation via Masked Acoustic Token Modeling](https://arxiv.org/abs/2307.04686) : VampNet leverages a bidirectional transformer architecture and a variable masking schedule during training to generate coherent high-fidelity musical waveforms. It showcases capabilities in music synthesis, compression, inpainting, and variation.
-- [MuseGAN: Multi-track Sequential Generative Adversarial Networks](https://arxiv.org/abs/1709.06298) : This paper proposes three models for symbolic multi-track music generation using generative adversarial networks (GANs), taking into account temporal dynamics and interdependencies between tracks.
-- [JEN-1: Text-Guided Universal Music Generation with Diffusion](https://arxiv.org/abs/2308.04729) : JEN-1 is introduced as a universal high-fidelity model for text-to-music generation, incorporating both autoregressive and non-autoregressive training. It demonstrates superior performance in text-music alignment and music quality.
-- [Museformer: Transformer with Fine-and Coarse-Grained Attention](https://arxiv.org/abs/2210.10349) : Museformer is a Transformer-based approach for music generation that addresses challenges related to long music sequences and musical repetition structures. It introduces fine- and coarse-grained attention mechanisms to capture relevant music structures efficiently.
-- [A Comprehensive Survey on Deep Music Generation: Multi-level Perspectives](https://arxiv.org/pdf/2011.06801) : This survey provides an overview of deep learning techniques in music generation, covering various composition tasks under different music generation levels (score generation, performance generation, and audio generation).
-- [Quantized GAN for Complex Music Generation from Dance Videos](https://arxiv.org/abs/2204.00604) : Dance2Music-GAN (D2M-GAN) is an adversarial multi-modal framework that generates complex musical samples conditioned on dance videos. It uses Vector Quantized (VQ) audio representation to generate diverse dance music styles.
-- [Musika! Fast Infinite Waveform Music Generation](https://arxiv.org/abs/2208.08706): Fast and user-controllable music generation system that allows for much faster than real-time generation of music of arbitrary length on a consumer CPU.
-- [A systematic review of artificial intelligence-based music generation](https://www.sciencedirect.com/science/article/pii/S0957417422013537): Provides a wide range of publications and explores the interest of both musicians and computer scientists in AI-based automatic music generation.
-- [MidiNet: A Convolutional Generative Adversarial Network for Music Generation](https://arxiv.org/abs/1703.10847): Introduces the use of convolutional neural networks (CNNs) for generating melodies in the symbolic domain.
-- [Music Generation by Deep Learning-Challenges and Directions](https://arxiv.org/abs/1712.04371): Explores the limitations of deep learning for music generation and the need for control, structure, creativity, and interactivity.
-- [What is missing in deep music generation? A study of repetition and structure](https://arxiv.org/abs/2209.00182): Investigates the understanding of music structure and repetition in the context of music generation and suggests new formal music criteria and evaluation methods.
-- [Symbolic Music Generation with Diffusion Models](https://arxiv.org/abs/2103.16091): Presents a technique for training diffusion models on sequential data to generate symbolic music with strong unconditional generation and post-hoc conditional infilling results.
-- [Discrete Diffusion Probabilistic Models for Symbolic Music Generation](https://arxiv.org/abs/2305.09489): Explores the application of Discrete Diffusion Probabilistic Models (D3PMs) for generating polyphonic symbolic music with high sample quality and flexible infilling.
-- [MMM: Exploring Conditional Multi-Track Music Generation with the Transformer](https://arxiv.org/abs/2008.06048): Introduces a generative system based on the Transformer architecture for generating multi-track music with greater control and handling of long-term dependencies.
-- [Deep Learning Techniques for Music Generation - A Survey](https://arxiv.org/abs/1709.01620): Analyses the different ways of using deep learning for generating musical content, covering objectives, representations, architectures, challenges, and evaluation.
-- [Mo^usai: Text-to-Music Generation with Long-Context Latent Diffusion](https://arxiv.org/abs/2301.11757): Bridges the connection between text and music with a highly efficient text-to-music generation model that can generate multiple minutes of high-quality stereo music from textual descriptions.
+7. [**基于扩散模型的符号音乐生成**](https://arxiv.org/abs/2103.16091)：首次将扩散模型应用于符号音乐建模，展示了出色的音乐生成和条件填充效果。
 
-## Videos
+8. [**Magenta 项目**](https://research.google/teams/brain/magenta/)：这是一个研究项目，探索机器学习在艺术和音乐创作中的作用。
 
-- [Music Generation with Magenta: Using Machine Learning in Arts](https://www.youtube.com/watch?v=O4uBa0KMeNY) - Nov 7, 2019. Composing music is hard, and the lack of inspiration can be daunting. This video explores how machine learning can be used in music generation.
-- [How to code a music generation genetic algorithm?](https://www.youtube.com/watch?v=nypJ3b4rMhE) - Apr 3, 2021. This video discusses coding a genetic algorithm for generating music, building upon the concepts presented in a previous video.
-- [Deep Learning for Music Generation](https://www.youtube.com/watch?v=4bCrNl4Bx1M) - Feb 8, 2018. In this episode of the AI show, Erika explains how to create deep learning models using music as input, delving into the technical aspects of music generation using deep learning.
-- [Composing Heavy Metal with GPT - HuggingFace for Music](https://www.youtube.com/watch?v=rpp5hQDnWtc) - Jan 26, 2022. This video showcases the usage of HuggingFace for music generation, specifically focusing on composing heavy metal music.
-- [MusicGen: Simple and Controllable Music Generation Explained](https://www.youtube.com/watch?v=5xqUoseyffw) - Jun 25, 2023. This video provides an explanation of MusicGen, a framework for simple and controllable music generation.
-- [Jawlove - Everything Will Be Alright - YouTube](https://www.youtube.com/watch?v=Wr59PK8U-dI) - A music video featuring the song "Everything Will Be Alright" by Jawlove.
-- [Musical Beginnings with Karen #7 Slippery Fish - YouTube](https://m.youtube.com/watch?v=FK0Be7OvFPk) - A video from the Music Generation Waterford program showcasing a music education performance.
-- [Cybernetic Celebration | EDM | Loudly AI Music Generator - YouTube](https://www.youtube.com/watch?v=zSlnctOOChY) - A video demonstrating the use of the Loudly AI Music Generator to create EDM music.
-- [Music Generation Cork City - YouTube](https://m.youtube.com/playlist?list=PLaYlsrBdxcGSisQvTWbPfb2HHYVcPIR2V) - A playlist of videos showcasing performances by Music Generation Cork City.
-- [Top AI music generating tools (publicly available tools) - video](https://www.dailymotion.com/video/x8hwvyb) - A video exploring the top AI music generating tools available, including Mubert AI, AIVA, Soundraw, Beatoven AI, Boomy, and Amper Music.
+9. [**用Python生成音乐：基础入门**](https://medium.com/@stevehiehn/how-to-generate-music-with-python-the-basics-62e8ea9b99a5)：一篇文章，讲解如何用Python进行基础音乐生成，重点介绍程序化MIDI生成的用法。
 
-## Tools & Software
+10. [**MidiNet: 使用卷积生成对抗网络生成旋律**](https://arxiv.org/abs/1703.10847)：研究利用卷积神经网络（CNN）在符号域生成旋律，提出条件机制并扩展至多MIDI通道。
 
-- [Stability AI unveils 'Stable Audio'](https://alternativeto.net/news/2023/9/stability-ai-unveils-stable-audio--a-versatile-platform-for-ai-music-generation/): A versatile platform for AI Music Generation. Stability AI has launched a new AI platform, Stable Audio, which offers a novel latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control.
-- [SuperCollider](https://sourceforge.net/directory/?q=algorithmic%20music%20composition): An audio server, programming language, and IDE for sound synthesis. SuperCollider is a platform for audio synthesis and algorithmic composition.
-- [Best Open Source AI Music Generators](https://sourceforge.net/directory/ai-music-generators/): Implementation of AudioLM, a language modeling approach to audio generation using Pytorch. It includes conditioning mechanisms for more control over generated music.
-- [Soundful](https://www.producthunt.com/products/soundful): An AI Music Generator that allows creators to generate royalty-free tracks instantly. Soundful generates high-quality music using AI technology, making it easy for anyone to create professional-sounding music.
-- [Strasheela](https://sourceforge.net/projects/strasheela/): A constraint-based music composition system. Users define music theories with sets of compositional rules, and the system generates music that complies with these theories.
-- [Best AI Music Generators - 2023 Reviews & Comparison](https://sourceforge.net/software/ai-music-generators/): An online tool with multiple ways to create song covers, including searching for songs, uploading audio files, and recording directly.
-- [What Is AI Generated Music? Best Music Tools for 2023](https://www.g2.com/articles/ai-generated-music): A software that allows businesses to explore AI-generated music as a cheaper alternative, offering a free trial with unlimited music projects and monthly song downloads.
-- [Best Audio Editing Software in 2023: Compare Reviews on 100+ | G2](https://www.g2.com/categories/audio-editing): A comprehensive list of audio editing software commonly used by audio engineers and music producers, with real-time product reviews from verified users.
-- [Psycle Modular Music Creation Studio Reviews - 2023](https://sourceforge.net/projects/psycle/reviews/): User reviews and ratings of the Psycle Modular Music Creation Studio free open-source software project.
+11. [**人工智能在音乐生成中的应用综述**](https://arxiv.org/abs/2210.13944)：讨论音乐生成的核心技术进展，涵盖数据集、模型、接口和用户的角色，探讨AI在模仿音乐创作过程中的应用和未来研究方向。
 
-## Conferences & Events
+12. [**用人工智能生成音乐**](https://towardsdatascience.com/generating-music-with-artificial-intelligence-9ce3c9eef806)：通过递归神经网络（RNN）进行音乐生成，内容适合复习基于RNN的文本生成技术。
 
-- [Neuton.AI Events](https://www.eventbrite.com/o/neutonai-63873737103) - Neuton.AI is hosting various events, including an ARM Tech Talk about the Next Generation Smart Toothbrush and showcasing their unique neural network framework for building compact models with optimal size and accuracy.
-- [FUTURE DEAD ARTISTS Events](https://www.eventbrite.com/o/future-dead-artists-16784330599) - Stay updated on upcoming events by FUTURE DEAD ARTISTS, including the FDA 2023 Freshman Class: FUTURE GENERATION Artists Talk.
-- [Generative AI, Apps, and DevOps | AI/ML Talks](https://www.eventbrite.com/e/generative-ai-apps-and-devops-aiml-talks-tickets-726386941897) - Pulumi presents a talk on Generative AI, Apps, and DevOps in the field of AI/ML Talks on October 19, 2023, in Seattle, WA.
-- [Women in Tech & Entrepreneurship - Fort Lauderdale Chapter Happy Hour](https://www.eventbrite.com/e/women-in-tech-entrepreneurship-fort-lauderdale-chapter-happy-hour-tickets-707928020767) - Fort Lauderdale Chapter Happy Hour event for Women in Tech & Entrepreneurship.
+13. [**从人工神经网络到深度学习的音乐生成**](https://arxiv.org/abs/2004.03586)：探讨深度学习在音乐生成中的应用，提供关于如何自动学习音乐风格并生成音乐样本的教程。
 
-## Slides & Presentations
+14. [**Noise2Music：基于文本条件的音乐生成**](https://arxiv.org/abs/2302.03917)：提出了Noise2Music系统，利用扩散模型从文本描述生成高质量音乐片段，可捕捉文本中的风格、节奏、乐器、情感和年代等信息。
 
-- [Algorithmic music generation | PPT](https://www.slideshare.net/sunitabhagwat/algorithmic-music-generation): Slides discussing algorithmic music generation, available for free as a PDF or online view.
-- [Music Generation with Deep Learning | PPT](https://www.slideshare.net/JinxiLeviGuo/music-generation-with-deep-learning): Presentation exploring music generation using deep learning, downloadable as a PDF or for online viewing.
-- [Video Background Music Generation with Controllable Music Transformer](https://www.slideshare.net/ivaderivader/video-background-music-generation-with-controllable-music-transformer): Slides discussing the generation of video background music using a controllable music transformer, available as a PDF or for online viewing.
-- [Automatic Music Generation Using Deep Learning | PDF](https://www.slideshare.net/DanielWachtel4/automatic-music-generation-using-deep-learning-259642436): Slides explaining the process of automatic music generation using deep learning, downloadable as a PDF or for online viewing.
-- [MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment (AAAI 2018)](https://www.slideshare.net/HermanDong/musegan-multitrack-sequential-generative-adversarial-networks-for-symbolic-music-generation-and-accompaniment-aaai-2018): Slides presenting MuseGAN, a framework for multi-track sequential generative adversarial networks for symbolic music generation and accompaniment, available as a PDF or for online viewing.
-- [Automatic Music Composition with Transformers, Jan 2021 | PPT](https://www.slideshare.net/affige/automatic-music-composition-with-transformers-jan-2021): Presentation introducing ongoing projects on automatic music composition using Transformers, downloadable as a PDF or for online viewing.
-- [ISMIR 2019 tutorial: Generating music with generative adversarial networks (GANs)](https://www.slideshare.net/affige/ismir2019tutorialgan4music): Slides from the ISMIR 2019 tutorial on generating music with generative adversarial networks (GANs), available as a PDF or for online viewing.
-- [PopMAG: Pop Music Accompaniment Generation | PPT](https://www.slideshare.net/ivaderivader/popmag-pop-music-accompaniment-generation): Slides discussing PopMAG, a framework for pop music accompaniment generation, available as a PDF or for online viewing.
-- [Artificial intelligence and Music | PPT](https://www.slideshare.net/leonardjessesuccesslord/artificial-intelligence-and-music): Slides exploring the application of recurrent neural networks paired with LSTM for music generation, downloadable as a PDF or for online viewing.
-- [Machine learning for creative AI applications in music (2018 nov) | PPT](https://www.slideshare.net/affige/machine-learning-for-creative-ai-applications-in-music-2018-nov): Presentation on machine learning for creative AI applications in music, available as a PDF or for online viewing.
+15. [**带分类器的变分自动编码器在音乐生成中的应用**](https://arxiv.org/abs/1711.07050)：基于变分自动编码器（VAE）的算法音乐生成模型，结合分类器推断数据的离散类别，实现不同调性音乐序列的生成。
+
+16. [**基于WaveNet生成氛围音乐**](https://medium.com/@rachelchen_49210/generating-ambient-noise-from-wavenet-95aa7f0a8f77)：探讨如何使用Google DeepMind的WaveNet模型生成氛围音乐。
+
+17. [**使用LSTM神经网络生成音乐**](https://david-exiga.medium.com/music-generation-using-lstm-neural-networks-44f6780a4c5)：展示LSTM神经网络在音乐生成中的应用，并对模型改进进行了描述。
+
+18. [**基于离散扩散概率模型的符号音乐生成**](https://arxiv.org/abs/2305.09489)：提出离散扩散概率模型（DDPMs）在生成多声部符号音乐中的应用，展示了高质量的样本生成能力，并支持音符级别的灵活填充。
+
+## 在线课程
+
+- [生成式人工智能课程与认证](https://www.coursera.org/courses?query=generative%20ai)：开启职业生涯新篇章，立即报名生成式人工智能课程！浏览由顶尖大学和行业领导者提供的精选课程。🎓
+- [AI艺术生成全能课程 - 从零基础到大师](https://www.udemy.com/course/complete-ai-art-generation/)：学习如何利用最前沿的AI算法生成语言、艺术、音乐及更多内容。🎨🎵
+- [Andrew Ng：深度学习专项课程](https://blog.coursera.org/andrew-ng-announcing-new-deep-learning-specialization-coursera/)：跟随知名AI专家Andrew Ng，探索深度学习领域的基础知识，踏入这片令人激动的科技领域。🧠
+- [深度学习课程与认证精选](https://www.coursera.org/courses?query=deep%20learning)（Coursera）：通过来自顶尖大学和行业专家的课程，提升您的深度学习技能与知识。
+
+## 图书推荐
+
+- [《音乐生成的深度学习技术》](https://link.springer.com/book/10.1007/978-3-319-70163-9) 📚：本书全面介绍了如何利用深度学习技术生成音乐内容，为学生、从业者和研究者提供了宝贵的见解。
+- [《算法作曲：自动音乐生成范式》](https://link.springer.com/book/10.1007/978-3-211-75540-2) 📚：这本书详细讲解了算法作曲的主要流程和原理，内容实用且深入。
+- [《Magenta音乐生成实战指南》](https://www.amazon.com/Hands-Music-Generation-Magenta-composition/dp/1838824413) 📚：了解深度学习在音乐生成与辅助作曲中的应用，通过Magenta将机器学习模型集成到现有音乐制作工具中。
+- [《机器学习与音乐生成》](https://www.amazon.com/Machine-Learning-Music-Generation-I%C3%B1esta/dp/0367892855) 📚：一本全面解析机器学习在音乐创作中的应用书籍，涵盖了各种ML技术的实际使用方法。
 
 
----
+#### 研究论文
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker). It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic. 
+- **[简单可控的音乐生成](https://arxiv.org/abs/2306.05284)**：提出了 MusicGen，这是一种语言模型（LM），可根据文本描述或旋律特征生成高质量音乐样本，实现更好的生成控制。在标准文本到音乐基准测试中表现优异。
+- **[高效的神经音乐生成](https://arxiv.org/abs/2305.15719)**：提出了 MeLoDy（一种结合语言模型和扩散模型的框架），能够生成高质量的音乐音频，同时减少采样过程中的计算量。
+- **[Noise2Music: 基于文本的音乐扩散生成](https://arxiv.org/abs/2302.03917)**：介绍了 Noise2Music 系列扩散模型，能够通过文本提示生成高质量的 30 秒音乐片段，并探索了不同的中间表示形式。
+- **[VampNet: 基于掩码声学标记的音乐生成](https://arxiv.org/abs/2307.04686)**：使用双向 Transformer 和可变掩码机制训练，生成高保真的音乐波形，支持音乐合成、压缩、修复和变体。
+- **[MuseGAN: 多轨序列生成对抗网络](https://arxiv.org/abs/1709.06298)**：提出了三种基于 GAN 的符号化多轨音乐生成模型，考虑了轨道间的时间动态和相互依赖性。
+- **[JEN-1: 基于文本引导的通用音乐生成](https://arxiv.org/abs/2308.04729)**：JEN-1 是一种结合自回归和非自回归训练的高保真音乐生成模型，在文本到音乐对齐和音乐质量方面表现出色。
+- **[Museformer: 精细和粗略注意力的 Transformer](https://arxiv.org/abs/2210.10349)**：提出了 Museformer，这是一种处理长音乐序列和重复结构的 Transformer 方法，通过精细和粗略粒度的注意力机制高效捕捉音乐结构。
+- **[深度音乐生成综述](https://arxiv.org/pdf/2011.06801)**：对音乐生成中的深度学习技术进行了概述，涵盖了不同层次的任务（乐谱生成、表演生成和音频生成）。
+- **[基于量化 GAN 的舞蹈音乐生成](https://arxiv.org/abs/2204.00604)**：Dance2Music-GAN 使用对抗式多模态框架，从舞蹈视频生成多样化的舞蹈音乐风格。
+- **[Musika! 快速无限波形音乐生成](https://arxiv.org/abs/2208.08706)**：一种快速且可控的音乐生成系统，支持在普通 CPU 上实时生成任意长度的音乐。
+- **[人工智能音乐生成系统性回顾](https://www.sciencedirect.com/science/article/pii/S0957417422013537)**：总结了大量研究，探讨了音乐家和计算机科学家对 AI 自动音乐生成的兴趣。
+- **[MidiNet: 基于卷积 GAN 的音乐生成](https://arxiv.org/abs/1703.10847)**：首次引入卷积神经网络（CNN）生成符号化领域的旋律。
+- **[深度学习在音乐生成中的挑战与方向](https://arxiv.org/abs/1712.04371)**：探讨了深度学习在音乐生成中的局限性，并提出控制、结构、创意和交互的需求。
+- **[深度音乐生成中的不足](https://arxiv.org/abs/2209.00182)**：研究音乐生成中的结构和重复问题，提出新的音乐标准和评估方法。
+- **[基于扩散模型的符号音乐生成](https://arxiv.org/abs/2103.16091)**：介绍了使用扩散模型生成符号音乐的技术，并支持条件填充和无条件生成。
+- **[离散扩散概率模型的符号音乐生成](https://arxiv.org/abs/2305.09489)**：研究了离散扩散概率模型（D3PM）在生成高质量多声部符号音乐中的应用。
+- **[MMM: 基于 Transformer 的多轨音乐生成](https://arxiv.org/abs/2008.06048)**：介绍了一种基于 Transformer 的生成系统，能够更好地控制和处理多轨音乐的长时依赖性。
+- **[深度学习技术在音乐生成中的应用综述](https://arxiv.org/abs/1709.01620)**：分析了深度学习生成音乐内容的不同方法，包括目标、表示、架构、挑战和评估。
+- **[Mo^usai: 长上下文潜在扩散的文本到音乐生成](https://arxiv.org/abs/2301.11757)**：高效连接文本和音乐，能够根据文本描述生成高质量的立体声音乐。
+
+#### 视频资源
+
+- **[使用 Magenta 进行音乐生成](https://www.youtube.com/watch?v=O4uBa0KMeNY)**：探讨如何用机器学习辅助音乐创作。
+- **[如何编写音乐生成遗传算法](https://www.youtube.com/watch?v=nypJ3b4rMhE)**：介绍通过遗传算法生成音乐的代码实现。
+- **[深度学习生成音乐](https://www.youtube.com/watch?v=4bCrNl4Bx1M)**：讲解如何用深度学习模型生成音乐。
+- **[用 GPT 作曲 - HuggingFace 音乐生成](https://www.youtube.com/watch?v=rpp5hQDnWtc)**：展示了 HuggingFace 在重金属音乐生成中的应用。
+- **[MusicGen 解释](https://www.youtube.com/watch?v=5xqUoseyffw)**：讲解 MusicGen 的原理和应用。
+- **[Jawlove: 一切都会好起来](https://www.youtube.com/watch?v=Wr59PK8U-dI)**：一首歌曲的音乐视频。
+- **[音乐教育表演示例](https://m.youtube.com/watch?v=FK0Be7OvFPk)**：展示音乐教育计划的表演。
+- **[AI 生成的电子音乐](https://www.youtube.com/watch?v=zSlnctOOChY)**：使用 Loudly AI 生成的电子音乐演示。
+- **[科克市音乐生成项目](https://m.youtube.com/playlist?list=PLaYlsrBdxcGSisQvTWbPfb2HHYVcPIR2V)**：科克市音乐生成项目的表演视频集。
+- **[顶级 AI 音乐生成工具](https://www.dailymotion.com/video/x8hwvyb)**：介绍了 Mubert AI、AIVA 等流行的 AI 音乐生成工具。
+
+## 工具与软件
+
+- **[Stable Audio：AI音乐生成平台](https://alternativeto.net/news/2023/9/stability-ai-unveils-stable-audio--a-versatile-platform-for-ai-music-generation/)**  
+  Stability AI 推出了全新 AI 平台 Stable Audio，基于一种新颖的潜在扩散模型，可通过元数据和时间条件生成音频，提供更快的推理速度和创作控制。
+
+- **[SuperCollider：音频合成与算法音乐创作工具](https://sourceforge.net/directory/?q=algorithmic%20music%20composition)**  
+  一个集音频服务器、编程语言和开发环境于一体的平台，用于声音合成和算法音乐创作。
+
+- **[最佳开源AI音乐生成工具](https://sourceforge.net/directory/ai-music-generators/)**  
+  使用Pytorch实现AudioLM语言模型，用于音频生成，并包含控制生成音乐的条件机制。
+
+- **[Soundful：AI音乐生成器](https://www.producthunt.com/products/soundful)**  
+  一款AI音乐生成工具，可快速生成免版税高质量音乐，让创作者轻松制作专业级音轨。
+
+- **[Strasheela：基于约束的音乐创作系统](https://sourceforge.net/projects/strasheela/)**  
+  用户可以定义一系列作曲规则，系统会生成符合这些规则的音乐作品。
+
+- **[最佳AI音乐生成器-2023年评论与比较](https://sourceforge.net/software/ai-music-generators/)**  
+  一个在线工具，提供多种方式创建歌曲翻唱，包括搜索歌曲、上传音频文件以及直接录音。
+
+- **[2023年AI生成音乐简介与最佳工具](https://www.g2.com/articles/ai-generated-music)**  
+  一款软件为企业提供AI生成音乐的低成本替代方案，提供免费试用，支持无限音乐项目与每月歌曲下载。
+
+- **[2023年最佳音频编辑软件对比](https://www.g2.com/categories/audio-editing)**  
+  汇总了音频工程师和音乐制作人常用的音频编辑软件，并提供经过验证用户的实时产品评论。
+
+- **[Psycle模块化音乐创作工作室用户评价](https://sourceforge.net/projects/psycle/reviews/)**  
+  免费开源音乐创作软件Psycle的用户评价与评分。
+
+## 会议与活动
+
+- **[Neuton.AI活动](https://www.eventbrite.com/o/neutonai-63873737103)**  
+  包括ARM技术分享会“下一代智能牙刷”，展示其神经网络框架，适用于构建紧凑而高效的模型。
+
+- **[FUTURE DEAD ARTISTS活动](https://www.eventbrite.com/o/future-dead-artists-16784330599)**  
+  获取关于FDA 2023新生代艺术家对谈等未来活动的信息。
+
+- **[生成式AI、应用和DevOps讲座](https://www.eventbrite.com/e/generative-ai-apps-and-devops-aiml-talks-tickets-726386941897)**  
+  Pulumi在2023年10月19日西雅图举办生成式AI与DevOps讲座。
+
+- **[女性科技与创业聚会 - 劳德代尔堡分会](https://www.eventbrite.com/e/women-in-tech-entrepreneurship-fort-lauderdale-chapter-happy-hour-tickets-707928020767)**  
+  针对女性科技与创业者的休闲聚会。
+
+## 幻灯片与演讲
+
+- **[算法音乐生成 | PPT](https://www.slideshare.net/sunitabhagwat/algorithmic-music-generation)**  
+  免费提供算法音乐生成相关演示的PDF或在线浏览。
+
+- **[深度学习音乐生成 | PPT](https://www.slideshare.net/JinxiLeviGuo/music-generation-with-deep-learning)**  
+  探讨深度学习在音乐生成中的应用，可下载PDF或在线查看。
+
+- **[可控音乐变换器的视频背景音乐生成](https://www.slideshare.net/ivaderivader/video-background-music-generation-with-controllable-music-transformer)**  
+  讨论使用可控音乐变换器生成视频背景音乐的幻灯片。
+
+- **[深度学习自动音乐生成 | PDF](https://www.slideshare.net/DanielWachtel4/automatic-music-generation-using-deep-learning-259642436)**  
+  介绍深度学习在自动音乐生成中的应用，可下载PDF或在线查看。
+
+- **[MuseGAN：多轨生成对抗网络](https://www.slideshare.net/HermanDong/musegan-multitrack-sequential-generative-adversarial-networks-for-symbolic-music-generation-and-accompaniment-aaai-2018)**  
+  提供AAAI 2018会议关于MuseGAN框架的幻灯片。
+
+- **[使用变换器的自动音乐创作，2021年1月 | PPT](https://www.slideshare.net/affige/automatic-music-composition-with-transformers-jan-2021)**  
+  介绍使用变换器进行音乐创作的最新项目。
+
+- **[ISMIR 2019教程：使用GAN生成音乐](https://www.slideshare.net/affige/ismir2019tutorialgan4music)**  
+  ISMIR 2019年教程内容，介绍如何使用GAN生成音乐。
+
+- **[PopMAG：流行音乐伴奏生成 | PPT](https://www.slideshare.net/ivaderivader/popmag-pop-music-accompaniment-generation)**  
+  讨论PopMAG框架生成流行音乐伴奏的幻灯片。
+
+- **[人工智能与音乐 | PPT](https://www.slideshare.net/leonardjessesuccesslord/artificial-intelligence-and-music)**  
+  结合循环神经网络与LSTM进行音乐生成的应用介绍。
+
+- **[音乐中的创意AI应用的机器学习（2018年11月）](https://www.slideshare.net/affige/machine-learning-for-creative-ai-applications-in-music-2018-nov)**  
+  机器学习在音乐创意AI应用中的演示幻灯片。
